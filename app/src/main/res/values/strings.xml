@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">AR_UserInterface</string>
+    <string name="slogan">
+        "All about
+        improving your wellness"
+    </string>
+    <string name="quote">
+        "Explore over 300 million
+        free, valuable information,
+        health professionals, prescriptions,
+        regimens, conditions etc."
+
+    </string>
+    <string name="getstarted">
+        "GET STARTED"
+    </string>
+    <string name="title_activity_signup">SignupActivity</string>
+    <string name="title_activity_spinner">SpinnerActivity</string>
+
+    <string-array name="spinner_array">
+        <item>Patient</item>
+        <item>Doctor</item>
+        <item>Nurse</item>
+        <item>Young Mother</item>
+
+    </string-array>
+    <string name="Terms">
+        "By using the Afya Rekod App, you agree with the Terms of Service"
+    </string>
+</resources>
